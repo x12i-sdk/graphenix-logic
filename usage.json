@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/graphenix-logic",
+  "packageVersion": "2.17.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/graphenix-logic",
+  "usageRepository": "https://github.com/x12i-sdk/graphenix-logic",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Evaluate simple and combined graph conditions",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:45:29.730180+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "d15612dc21486e1980b28fe0d7f52b70c1c7a488954b18299ab45140b3e94494",
+    "manifestSha256": "8b25a947df9b026fb2f3f898436ecdccb65563faf7d6ecffe9e2db3a8626f88a"
+  }
+}

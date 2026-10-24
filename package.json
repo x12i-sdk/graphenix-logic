@@ -1,0 +1,22 @@
+{
+  "name": "graphenix-logic-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/graphenix-logic: evaluate simple and combined graph conditions.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/graphenix-logic": "2.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/graphenix-logic.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/graphenix-logic"
+}
